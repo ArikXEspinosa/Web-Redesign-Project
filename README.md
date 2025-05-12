@@ -5,7 +5,6 @@
 The purpose of this project is to help user redesign this website to make it more user friendly and revamped
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Gained hands-on experience designing and customizing websites using WordPress.
 
@@ -26,19 +25,19 @@ The purpose of this project is to help user redesign this website to make it mor
 - Improved team and client communication through iterative feedback, user testing, and agile planning methods.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - WordPress – for building and customizing the website using themes, plugins, and widgets.
 
 - Elementor - for visual design and layout editing.
 
-HTML/CSS/JavaScript – for customizing design elements and interactivity beyond prebuilt templates.
+-HTML/CSS/JavaScript – for customizing design elements and interactivity beyond prebuilt templates.
 
-Microsoft Access – for designing and implementing a relational database to manage resources or donations.
+-Microsoft Access – for designing and implementing a relational database to manage resources or donations.
 
-Microsoft Excel  – for creating a Gantt chart to plan and track project milestones.
+-Microsoft Excel  – for creating a Gantt chart to plan and track project milestones.
 
-Draw.io  – to design a dialogue tree mapping the donation process logic and flow.
+-Draw.io  – to design a dialogue tree mapping the donation process logic and flow.
 
 
 
